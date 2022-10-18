@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "use_item": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:netherite_axe"
+                    ]
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "tools:consume"
+    }
+}
