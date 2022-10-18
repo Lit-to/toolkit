@@ -5,13 +5,13 @@
             "conditions": {
                 "item": {
                     "items": [
-                        "minecraft:netherite_axe"
+                        "minecraft:netherite_hoe"
                     ]
                 }
             }
         }
     },
     "rewards": {
-        "function": "tools:consume"
+        "function": "tools:from_adv/grades/netherite/hoe"
     }
 }

@@ -5,13 +5,13 @@
             "conditions": {
                 "item": {
                     "items": [
-                        "minecraft:stone_axe"
+                        "minecraft:stone_shovel"
                     ]
                 }
             }
         }
     },
     "rewards": {
-        "function": "tools:consume"
+        "function": "tools:from_adv/grades/stone/shovel"
     }
 }

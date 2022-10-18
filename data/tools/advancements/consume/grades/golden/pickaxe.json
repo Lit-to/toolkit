@@ -5,13 +5,13 @@
             "conditions": {
                 "item": {
                     "items": [
-                        "minecraft:golden_axe"
+                        "minecraft:golden_pickaxe"
                     ]
                 }
             }
         }
     },
     "rewards": {
-        "function": "tools:consume"
+        "function": "tools:from_adv/grades/golden/pickaxe"
     }
 }

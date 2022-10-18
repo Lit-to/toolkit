@@ -12,6 +12,6 @@
         }
     },
     "rewards": {
-        "function": "tools:consume"
+        "function": "tools:from_adv/grades/golden/axe"
     }
 }

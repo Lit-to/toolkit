@@ -5,13 +5,13 @@
             "conditions": {
                 "item": {
                     "items": [
-                        "minecraft:iron_axe"
+                        "minecraft:iron_sword"
                     ]
                 }
             }
         }
     },
     "rewards": {
-        "function": "tools:consume"
+        "function": "tools:from_adv/grades/iron/sword"
     }
 }
