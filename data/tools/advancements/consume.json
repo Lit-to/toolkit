@@ -5,6 +5,6 @@
         }
     },
     "rewards": {
-        "function": "tools:tick"
+        "function": "tools:consume"
     }
 }
