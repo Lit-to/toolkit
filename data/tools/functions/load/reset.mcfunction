@@ -11,6 +11,11 @@ scoreboard objectives add level dummy
 #鯖に入ったかどうか
 scoreboard objectives remove join
 scoreboard objectives add join custom:play_time 
-
+#課題アイテム
+scoreboard objectives remove work
+scoreboard objectives add work dummy
+#課題アイテム数格納箱
+scoreboard objectives remove score
+scoreboard objectives add score dummy
 
 
